@@ -1,3 +1,4 @@
+>Project status: **It's not over**
 # alph
 Alph is middle East kernel graphical text library and use in **C/C++** like library and get good and finish performance for projects like **Applications** or **Games** or other type system
 # Screenshots
