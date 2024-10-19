@@ -9,5 +9,7 @@ Alph is middle East kernel graphical text library and use in **C/C++** like libr
 
 ![display](https://github.com/user-attachments/assets/20ab6a38-7674-483b-8bf0-2173179d620b)
 
+>Note: The **Cairo family** font was used in the caption for clarification.
+
 ## License
 [MIT](LICENSE)
