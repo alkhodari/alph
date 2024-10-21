@@ -1,5 +1,5 @@
 # Project status: It's not over
-# ![logo-alph](https://github.com/user-attachments/assets/0d57f27c-938d-4df3-a22c-c359c09e68df)
+# ![alph](https://github.com/user-attachments/assets/50902d63-6197-45dd-ba43-6e3e451e2277)
 
 >Version **1.10.19**
 
@@ -12,4 +12,5 @@ Alph is middle East kernel graphical text library and use in **C/C++** like libr
 >Note: The **Cairo family** font was used in the caption for clarification.
 
 ## License
+
 [MIT](LICENSE)
