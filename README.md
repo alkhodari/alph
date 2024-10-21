@@ -1,5 +1,5 @@
 # Project status: It's not over
-# ![alph](https://github.com/user-attachments/assets/50902d63-6197-45dd-ba43-6e3e451e2277)
+# ![alph](https://github.com/user-attachments/assets/4701b8e5-2472-4929-9fa2-4aec378261ec)
 
 >Version **1.10.19**
 
